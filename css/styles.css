@@ -1,0 +1,67 @@
+body {
+  background-color: #fff600;
+}
+h3{
+  font-weight: normal;
+    color: #66BFBF;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.25em;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.holi {
+  width: 30%;
+  margin: auto;
+  text-align: left;
+}
+
+.pro {
+  text-decoration: underline;
+}
+.m{
+    text-decoration: underline;
+}
+.n {
+    text-decoration: underline;
+}
+h4 {
+  display: inline;
+}
+.hindi{
+  background-color: #b4aee8;
+}
+.eng{
+  background-color: #f5c0c0;
+}
+hr {
+borderstyle: none
+border-top-style: hidden;
+border-width:
+border-width:0.00px;
+width: 0.00%;
+}
+.g {
+  background-color: #9fd8df;
+}
+.r{
+  color: #ff005c;
+}
+.o {
+  color: #78c4d4;
+}
+.h {
+  color: #7eca9c;
+}
+.i {
+  color: #93329e;
+}
+.t {
+color:  #ff7171;
+}
+.z {
+  color: #fa1e0e;
+}
+h4 {
+  text-align: center;
+}
